@@ -1,3 +1,16 @@
+**About this repository**
+
+The modernize branch contains active updates for modern Python versions.
+
+This is a maintained continuation of [`willvousden/ptemcee`](https://github.com/willvousden/ptemcee) (now archived).
+It preserves full git history and the original LICENSE. The goal is to keep the project working on modern Python
+versions and dependencies, and to accept community fixes.
+
+**Changes vs upstream (summary):**
+
+
+**Begin old README.rst**
+
 **This repository is unmaintained; do not expect updates. If you're interested in taking ownership, feel free to contact me.**
 
 ptemcee
